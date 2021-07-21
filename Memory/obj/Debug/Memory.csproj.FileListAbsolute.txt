@@ -1,0 +1,12 @@
+F:\document\POLYTECH\ISI\Memory\Memory\bin\Debug\Memory.exe.config
+F:\document\POLYTECH\ISI\Memory\Memory\bin\Debug\Memory.exe
+F:\document\POLYTECH\ISI\Memory\Memory\bin\Debug\Memory.pdb
+F:\document\POLYTECH\ISI\Memory\Memory\bin\Debug\dllLoto.dll
+F:\document\POLYTECH\ISI\Memory\Memory\obj\Debug\Memory.csprojAssemblyReference.cache
+F:\document\POLYTECH\ISI\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+F:\document\POLYTECH\ISI\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+F:\document\POLYTECH\ISI\Memory\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+F:\document\POLYTECH\ISI\Memory\Memory\obj\Debug\Memory.csproj.CopyComplete
+F:\document\POLYTECH\ISI\Memory\Memory\obj\Debug\Memory.exe
+F:\document\POLYTECH\ISI\Memory\Memory\obj\Debug\Memory.pdb
+F:\document\POLYTECH\ISI\Memory\Memory\obj\Debug\Memory.frmMemory.resources
