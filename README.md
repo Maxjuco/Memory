@@ -1,5 +1,5 @@
 # Memory
-Memory game made in C# (school project)
+Memory game made in C# with Wndows Forms (school project)
 
 Note : </br><ul>
 <li>to see the code go to <i>Memory/</i> (main code is <i> program.cs</i> and runnable is <i>frmMemory.cs</i>)</li>
