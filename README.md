@@ -1,2 +1,2 @@
 # Memory
-Memory game made with C# XNA 
+Memory game made with C# 
