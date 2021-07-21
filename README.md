@@ -1,2 +1,5 @@
 # Memory
-Memory game made with C# XNA 
+Memory game made in C# (school project)
+
+Credit : </br>
+Co-developped with <b>Jade COTHENET</b>
